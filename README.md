@@ -2,8 +2,8 @@
 
 ## TODO
 
-- [] Make it deploy
-- [] Scaffold ui with more data
+- [x] Make it deploy
+- [x] Scaffold ui with more data
 - [] Actually set up a database (vercel postgres)
 - [] Attache database to UI
 - [] Add authentication (w? clerk)
