@@ -3,6 +3,7 @@
         "nextjs",
         "posthog",
         "Ratelimiting",
+        "Uploadthing",
         "upstash"
     ]
 }
